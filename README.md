@@ -1,3 +1,7 @@
+![ACU Maker Lab Photobooth](https://raw.githubusercontent.com/starbuck93/drumminhands_photobooth/master/Final_Build.jpg)
+
+
+
 drumminhands_photobooth
 =======================
 
